@@ -1,0 +1,1 @@
+export const QUESTION_API_URL = 'https://the-trivia-api.com/v2'
